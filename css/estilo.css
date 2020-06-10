@@ -1,2 +1,23 @@
-H4 { text-align: center }
-H5 { text-align: center }
+body {
+ background-color: #000000;
+
+}
+
+H4 { color: #ddd054;
+    text-align: center }
+
+H5 { color: #ddd054;
+    text-align: center }
+
+
+#centro {
+   text-align: center
+   }
+
+div.tres {
+ text-align: center
+ width:30px;
+ height:30px;
+ border: 25px solid; /* As 4 bordas sólidas com 25px de espessura */
+ border-color: #ffd24d #ffd24d #ffd24d #ffd24d; /* cores: topo, direita, inferior, esquerda */
+ }
