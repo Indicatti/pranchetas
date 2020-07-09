@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f74321-576c-405b-b9bc-5b12bbffd61b" name="Default Changelist" comment="ajusteok" />
+    <list default="true" id="95f74321-576c-405b-b9bc-5b12bbffd61b" name="Default Changelist" comment="ajuste_ok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593447464445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajuste_ok">
+      <created>1594301498744</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594301498744</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,9 +75,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajuste" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajuste" />
+    <MESSAGE value="ajuste_ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajuste_ok" />
   </component>
 </project>
