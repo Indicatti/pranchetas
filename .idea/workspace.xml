@@ -19,7 +19,86 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f74321-576c-405b-b9bc-5b12bbffd61b" name="Default Changelist" comment="ajuste_ok" />
+    <list default="true" id="95f74321-576c-405b-b9bc-5b12bbffd61b" name="Default Changelist" comment="ajuste_ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.41 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.41.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.42 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.42.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.43 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.43 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.43.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.44 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.44.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.45 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.45.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.46 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.46.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.47 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.47 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.47 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.47.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.48 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.48 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.48.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.49 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.49 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.49 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.49.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.50 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.50 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.50 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.50.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.51 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.51.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.52 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.52.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.53 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.53 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.53 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.53.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.54.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.55 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.55 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.55.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.56 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.56 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.56.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.57 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.57 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.57.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.58 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.58 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.58.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.59 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.59 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.31.59.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.00 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.00 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.00 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.00.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.01 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.01 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.01 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.02 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.02 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.02 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.02 (4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.02.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.03 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.03 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.03 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.03.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.04 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.04 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.04 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.04.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.05 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/logo_marcas/WhatsApp Image 2020-06-25 at 13.32.05.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594302087085</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajuste_ok">
+      <created>1594302489476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594302489476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,13 +176,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="ajuste_ok" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594313801433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594313801433" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1594302274583">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594302274583" />
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594302258483">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594313797428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594302258483" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594313797428" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594317343917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594317343917" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594313805694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594313805694" />
   </component>
 </project>
