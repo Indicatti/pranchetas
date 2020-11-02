@@ -11,6 +11,17 @@ H4{color : #000
 
 
 
+.navbar .navbar-nav {
+display: inline-block;
+float: none !important;
+}
+
+.navbar .navbar-collapse {
+text-align: center;
+}
+
+
+
 btnwhats {
     text-align: center;
     background: #32CD32;
