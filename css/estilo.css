@@ -3,22 +3,12 @@ body {
 
 }
 
-H2 { color: #66ff66;
+H2 { color: #3333cc;
     text-align: center }
 
 H4{color : #000
     text-align: center }
 
-
-
-.navbar .navbar-nav {
-display: inline-block;
-float: none !important;
-}
-
-.navbar .navbar-collapse {
-text-align: center;
-}
 
 
 
