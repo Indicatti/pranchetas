@@ -34,3 +34,18 @@ div.tres {
  border: 25px solid; /* As 4 bordas sólidas com 25px de espessura */
  border-color: #ffd24d #ffd24d #ffd24d #ffd24d; /* cores: topo, direita, inferior, esquerda */
  }
+
+
+.map-container-2{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-2 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
